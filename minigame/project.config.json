@@ -1,0 +1,21 @@
+{
+  "description": "火柴人格斗：双人同屏对战小游戏",
+  "compileType": "game",
+  "appid": "touristappid",
+  "projectname": "stickman-fighter-minigame",
+  "setting": {
+    "es6": false,
+    "enhance": false,
+    "minified": false,
+    "postcss": false,
+    "urlCheck": false,
+    "ignoreDevUnusedFiles": false,
+    "ignoreUploadUnusedFiles": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "condition": {}
+}
